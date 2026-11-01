@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms</value>
+  </resheader>
+  <data name="Unit0" xml:space="preserve">
+    <value>null</value>
+  </data>
+  <data name="Unit1" xml:space="preserve">
+    <value>ein</value>
+  </data>
+  <data name="Unit2" xml:space="preserve">
+    <value>zwei</value>
+  </data>
+  <data name="Unit3" xml:space="preserve">
+    <value>drei</value>
+  </data>
+  <data name="Unit4" xml:space="preserve">
+    <value>vier</value>
+  </data>
+  <data name="Unit5" xml:space="preserve">
+    <value>fünf</value>
+  </data>
+  <data name="Unit6" xml:space="preserve">
+    <value>sechs</value>
+  </data>
+  <data name="Unit7" xml:space="preserve">
+    <value>sieben</value>
+  </data>
+  <data name="Unit8" xml:space="preserve">
+    <value>acht</value>
+  </data>
+  <data name="Unit9" xml:space="preserve">
+    <value>neun</value>
+  </data>
+  <data name="Unit10" xml:space="preserve">
+    <value>zehn</value>
+  </data>
+  <data name="Unit11" xml:space="preserve">
+    <value>elf</value>
+  </data>
+  <data name="Unit12" xml:space="preserve">
+    <value>zwölf</value>
+  </data>
+  <data name="Unit13" xml:space="preserve">
+    <value>dreizehn</value>
+  </data>
+  <data name="Unit14" xml:space="preserve">
+    <value>vierzehn</value>
+  </data>
+  <data name="Unit15" xml:space="preserve">
+    <value>fünfzehn</value>
+  </data>
+  <data name="Unit16" xml:space="preserve">
+    <value>sechzehn</value>
+  </data>
+  <data name="Unit17" xml:space="preserve">
+    <value>siebzehn</value>
+  </data>
+  <data name="Unit18" xml:space="preserve">
+    <value>achtzehn</value>
+  </data>
+  <data name="Unit19" xml:space="preserve">
+    <value>neunzehn</value>
+  </data>
+  <data name="Ten0" xml:space="preserve">
+    <value>null</value>
+  </data>
+  <data name="Ten1" xml:space="preserve">
+    <value>zehn</value>
+  </data>
+  <data name="Ten2" xml:space="preserve">
+    <value>zwanzig</value>
+  </data>
+  <data name="Ten3" xml:space="preserve">
+    <value>dreißig</value>
+  </data>
+  <data name="Ten4" xml:space="preserve">
+    <value>vierzig</value>
+  </data>
+  <data name="Ten5" xml:space="preserve">
+    <value>fünfzig</value>
+  </data>
+  <data name="Ten6" xml:space="preserve">
+    <value>sechzig</value>
+  </data>
+  <data name="Ten7" xml:space="preserve">
+    <value>siebzig</value>
+  </data>
+  <data name="Ten8" xml:space="preserve">
+    <value>achtzig</value>
+  </data>
+  <data name="Ten9" xml:space="preserve">
+    <value>neunzig</value>
+  </data>
+  <data name="Hundred" xml:space="preserve">
+    <value>hundert</value>
+  </data>
+  <data name="Thousand" xml:space="preserve">
+    <value>tausend</value>
+  </data>
+  <data name="MillionSingular" xml:space="preserve">
+    <value>Million</value>
+  </data>
+  <data name="MillionPlural" xml:space="preserve">
+    <value>Millionen</value>
+  </data>
+  <data name="Unit1Feminine" xml:space="preserve">
+    <value>eine</value>
+  </data>
+  <data name="DollarSingular" xml:space="preserve">
+    <value>Dollar</value>
+  </data>
+  <data name="DollarPlural" xml:space="preserve">
+    <value>Dollar</value>
+  </data>
+  <data name="CentSingular" xml:space="preserve">
+    <value>Cent</value>
+  </data>
+  <data name="CentPlural" xml:space="preserve">
+    <value>Cent</value>
+  </data>
+  <data name="Conjunction" xml:space="preserve">
+    <value>und</value>
+  </data>
+</root>
